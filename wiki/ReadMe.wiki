@@ -1,4 +1,3 @@
-
 8 August 2009
 
 This is my first package for you to be able to read or write Unicode khmer properly on your iPhone.
@@ -50,6 +49,4 @@ Like this in case of problem, just delete the new copied file and revert back th
 
 
 
-If you have problem, then email me.
-
-contact: fabkk2002@yahoo.com
+If you have problem, leave a comment on http://code.google.com/p/khmeriphone/ or contact fabkk2002@yahoo.com
