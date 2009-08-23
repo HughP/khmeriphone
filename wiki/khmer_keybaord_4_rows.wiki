@@ -8,4 +8,29 @@ http://farm4.static.flickr.com/3476/3845267534_f5c3cf3fa7_m.jpg
 http://farm3.static.flickr.com/2468/3844476925_4203c8af5f_m.jpg
 http://farm3.static.flickr.com/2460/3844477067_f99bde2468_m.jpg
 
-=Details coming soon=
+This is the new Keyboard 4 Rows delivered with the new v0.4 <br>
+This version is available here for download and is available Monday 24 August on Cydia.<br>
+<br>
+I prefer more this new version than my previous one. <br>
+The Target of this new keyboard was to have a look and feel iPhone and to be as close as possible of the NIDA mapping.<br>
+You can find NIDA keyboard mapping on http://www.khmeros.info <br>
+<br>
+<br>
+
+On this iPhone Keyboard the Invisible Space, is available with Shift + Space. Due to Technical constraint, I didn't find a better way than to put it on the Shift + Space.<br>
+<br>
+<br>
+Some people will like it, others will not. This is perfectly normal. <br>
+
+<br>
+Same as in the english world, some people likes the QWERTY 4 rows, some the 5 rows, some the Colmak keyboard, some with other colors, shape ... <br>
+<br>
+The most important is that you feel good using the one you want
+<br>
+<br>
+I hope to see the other type of keyboards available soon for all who want to write Khmer on their iPhone. <br>
+
+If you are interested to know how to make an iPhone Keyboard, please visit the site http://networkpx.blogspot.com/ <br>
+This site is by KennyTM, the person who build iKeyEx and other great utilities for iPhone. <br>
+I didn't know anything about iPhone keyboard, before to read his Blog.
+
