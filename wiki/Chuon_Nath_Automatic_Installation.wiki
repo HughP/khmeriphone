@@ -1,3 +1,15 @@
-
-
 == Chuon Nath Automatic Download from iPhone ==
+=== Example for Wedict Pro 1.5 === 
+<br>
+Please find the package for Chuon Nath Dictionary in the Download section <br>
+
+The original version can be found here : <br>
+
+http://code.google.com/p/khmer-dictionary-tools/   <br>
+
+I just converted the dictionary to Stardict format, nothing more than this.  <br>
+I have no credit at all. And I'm not affiliated in anyway to the above website. <br>
+ <br>
+ <br>
+For installing the dictionary in your iPhone.  <br>
+ <br>
