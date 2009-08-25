@@ -35,7 +35,7 @@ Click on "Download from URL" <br>
 http://sites.google.com/site/khmeriphone/IMG_0067.jpg
 <br>
 
-Enter the following URL :     http://khmeriphone.googlecode.com/files/ChuonNath%20Dico.zip
+Enter the following URL :     http://khmeriphone.googlecode.com/files/ChuonNath_Dico.zip
 And Click Go
 <br>
 http://sites.google.com/site/khmeriphone/IMG_0068.jpg
