@@ -1,8 +1,9 @@
-
-= Cydia Repo =
-
-
+= The khmeriPhone Cydia Repo =
 
 
 = How to ... =
+<br>
+Open Cydia and Select Manage...
+<br>
+
 
