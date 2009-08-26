@@ -1,9 +1,21 @@
 = The khmeriPhone Cydia Repo =
 
-
+<br>
 = How to ... =
 <br>
-Open Cydia and Select Manage...
+Open Cydia and Select Manage...<br>
 <br>
-
-
+http://sites.google.com/site/khmeriphone/IMG_0071.jpg<br>
+<br>
+Select "Sources"<br>
+<br>
+http://sites.google.com/site/khmeriphone/IMG_0072.jpg<br>
+<br>
+Select "Add"
+<br>
+http://sites.google.com/site/khmeriphone/IMG_0073.jpg<br>
+<br>
+Enter the source : xxxxxxxxxxxx
+<br>
+http://sites.google.com/site/khmeriphone/IMG_0073.jpg<br>
+<br>
