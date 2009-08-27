@@ -58,6 +58,8 @@ Install, or go see More Information, or ...<br>
 <br>
 As per today, there is 3 packages available.<br>
 <br>
-If any problems, please contact me.<br>
+It is the first time that I do this, so I hope everything will be ok.<b>
 <br>
+If any problems, please contact me.<br>
+<br> 
 As per today the packages can only be installed on 3.0 and 3.0.1<br>
