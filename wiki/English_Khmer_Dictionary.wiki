@@ -1,0 +1,17 @@
+#labels Featured
+= English Khmer Dictionary =
+
+Thanks to Uponastar from iphonekhmer.com to have provided me the database. <br>
+
+I just converted the dictionary to Stardict format, nothing more than this.  <br>
+I have no credit at all. <br>
+<br>
+This English - Khmer Dictionary has 31000+ words
+
+ <br>
+ <br>
+For installing the dictionary in your iPhone follow the same process as for the other dictionary <br>
+ <br>
+Automatic way. For URL put : http://khmeriphone.googlecode.com/files/EnglishKhmerDico.zip
+<br>
+<br>
