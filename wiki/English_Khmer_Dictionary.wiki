@@ -1,7 +1,7 @@
 #labels Featured
 = English Khmer Dictionary =
 
-Thanks to Uponastar from iphonekhmer.com to have provided me the database. <br>
+Thanks to Uponastar from iphonekhmer.com to have provided the database. <br>
 
 I just converted the dictionary to Stardict format, nothing more than this.  <br>
 I have no credit at all. <br>
