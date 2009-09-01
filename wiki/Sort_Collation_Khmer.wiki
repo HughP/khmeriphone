@@ -32,6 +32,6 @@ With this version you can search easily your Contacts and Ipod items (Songs, Art
 <br>
 <br>
 *NB: After downloading the new Cydia Update, you will need to switch back to English Language, and again to Khmer Language. <br>
-I noticed that, the first time, it takes few seconds after for the sorting algorithm to be acknowledge by the iPhone.<br>*
+I noticed that, the first time, it takes few seconds for the sorting algorithm to be acknowledge by the iPhone.<br>*
 
 As usual, Please do not hesitate to comment.
