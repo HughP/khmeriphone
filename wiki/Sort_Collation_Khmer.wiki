@@ -1,10 +1,9 @@
 = Khmer Sorting / Collation for iPhone 3.0.x =
 
-===Available this week on Cydia - New 0.5 Upgrade ===
 
 == Sort&Collation how to ... ==
 
-Today, with the 0.4 version, the Khmer words are not properly sorted and cannot be easily search with the Index Bar (On the right).<br>
+Yesterday, with the 0.4 version, the Khmer words are not properly sorted and cannot be easily search with the Index Bar (On the right).<br>
 <br>
 Example<br>
 
