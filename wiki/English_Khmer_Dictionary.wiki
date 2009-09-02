@@ -11,7 +11,15 @@ This English - Khmer Dictionary has 31000+ words
  <br>
  <br>
 For installing the dictionary in your iPhone follow the same process as for the other dictionary <br>
+<br>
+If Automatic way then use the wiki link : http://code.google.com/p/khmeriphone/wiki/Chuon_Nath_Automatic_Installation
+<br>
+<br>
+and for the URL, you put : http://khmeriphone.googlecode.com/files/EnglishKhmerDico.zip
+
  <br>
-Automatic way. For URL put : http://khmeriphone.googlecode.com/files/EnglishKhmerDico.zip
+ <br>
+If Manual way then use the wiki link : http://code.google.com/p/khmeriphone/wiki/Chuon_Nath_Manual_Installation
+
 <br>
 <br>
