@@ -1,6 +1,7 @@
 #labels Featured
 = The khmeriPhone Cydia Repo =
 
+= THIS REPO IS CURRENTLY DEAD, A NEW REPO WILL BE SETUP =
 
 <br>
 = How to ... =
