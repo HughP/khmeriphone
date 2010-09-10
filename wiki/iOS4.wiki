@@ -3,3 +3,6 @@
 
 <br>
 == This wiki is describing the package content, that is provided on Cydia ==
+
+<br>
+Update for this page and the new repo address will come this week-end...
