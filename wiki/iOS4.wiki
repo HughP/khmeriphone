@@ -1,2 +1,5 @@
 #labels Featured
 = iOS 4 Khmer Keyboard & Fonts Package =
+
+<br>
+== This wiki is describing the package content, that is provided on Cydia ==
