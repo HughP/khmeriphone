@@ -28,7 +28,7 @@ All the fonts are located in a separate folder name *MyFonts.* <br>
    arialuni.ttf is the font with khmer glyphs used previously in 3.0 and the new engine from Danh Hong. <br>
    CGFontCache.plist is modified to declare the new fonts <br>
 <br>
-   NB: arialuni.ttf as the same characteristic as before. I could have used exactly the same font as before for this new package. But due to copyright issue, I had to change the AAT engine of the font and use the one from Danh Hong.<br>
+   NB: arialuni.ttf is the Unicode font. It as the same characteristic as before. I could have used exactly the same font as before for this new package. But due to copyright issue, I had to change the AAT engine of the font and use the one from Danh Hong.<br>
    If u modify the package for personal purpose. Be very careful with PhoneKeysCaps.ttf. This font is used for the keyboard, and keyboard only. I do not recommend you to change PhoneKeyCaps.ttf.
 <br>
 
@@ -37,6 +37,8 @@ All the files xxxx.keyboard are defining the Khmer Keyboard.<br>
 Keyboard-cs.plist is defining mainly the long push key, and few other things.<br>
 InputModeProperties.plist is used in Preferences for the list of HW keyboard and SW keyboard. New in iOS4<br>
 
-
 <br>
-the new cydia repo address will come this week-end...
+<br>
+
+This above describe what will be changed in your iPhone iOS4 for you to have Khmer Fonts and Keyboard on your iPhone <br>
+The new cydia repo address will come this week-end...
