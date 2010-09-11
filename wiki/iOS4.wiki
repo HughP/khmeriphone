@@ -22,7 +22,7 @@ The modification take place if your iPhone language is English or French
 <br>
 
 *Fonts:*
-All the fonts are placed in a separate folder name MyFonts.
+All the fonts are located in a separate folder name *MyFonts.*
    ABC and Limon fonts are installed for legacy web viewing
    PhoneKeysCaps.ttf is used for the font keyboards.
    arialuni.ttf is the font with khmer glyphs used previously in 3.0 and the new engine from Danh Hong.
