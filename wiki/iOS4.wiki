@@ -25,7 +25,7 @@ You will be able to see "Khmer" in Settings if your iPhone language is English o
 All the fonts are located in a separate folder name *MyFonts.* <br>
    ABC and Limon fonts are installed for legacy web viewing <br>
    PhoneKeysCaps.ttf is used for the font keyboards. <br>
-   arialuni.ttf is the font with khmer glyphs used previously in 3.0 and the new engine from Danh Hong. <br>
+   arialuni.ttf is the Unicode font with khmer glyphs used previously in 3.0 and the new engine from Danh Hong. <br>
    CGFontCache.plist is modified to declare the new fonts <br>
 <br>
    NB: arialuni.ttf is the Unicode font. It as the same characteristic as before. I could have used exactly the same font as before for this new package. But due to copyright issue, I had to change the AAT engine of the font and use the one from Danh Hong.<br>
