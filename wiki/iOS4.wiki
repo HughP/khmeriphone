@@ -32,8 +32,11 @@ All the fonts are located in a separate folder name *MyFonts.* <br>
 <br>
 <br>
 
-
+*Keyboard:*
+All the files xxxx.keyboard are defining the Khmer Keyboard.<br>
+Keyboard-cs.plist is defining mainly the long push key, and few other things.<br>
+InputModeProperties.plist is used in Preferences for the list of HW keyboard and SW keyboard. New in iOS4<br>
 
 
 <br>
-Update for this page and the new cydia repo address will come this week-end...
+Update for this page on going and the new cydia repo address will come this week-end...
