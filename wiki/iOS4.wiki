@@ -31,7 +31,6 @@ All the fonts are located in a separate folder name *MyFonts.* <br>
    NB: arialuni.ttf as the same characteristic as before. I could have used exactly the same font as before for this new package. But due to copyright issue, I had to change the AAT engine of the font and use the one from Danh Hong.<br>
    If u modify the package for personal purpose. Be very careful with PhoneKeysCaps.ttf. This font is used for the keyboard, and keyboard only.
 <br>
-<br>
 
 *Keyboard:*
 All the files xxxx.keyboard are defining the Khmer Keyboard.<br>
@@ -40,4 +39,4 @@ InputModeProperties.plist is used in Preferences for the list of HW keyboard and
 
 
 <br>
-Update for this page on going and the new cydia repo address will come this week-end...
+the new cydia repo address will come this week-end...
