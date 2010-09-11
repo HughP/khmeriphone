@@ -27,6 +27,11 @@ All the fonts are located in a separate folder name *MyFonts.* <br>
    PhoneKeysCaps.ttf is used for the font keyboards. <br>
    arialuni.ttf is the font with khmer glyphs used previously in 3.0 and the new engine from Danh Hong. <br>
    CGFontCache.plist is modified to declare the new fonts <br>
+<br>
+   NB: ariauni.ttf as the same characteristic as before. Only the AAT engine has been replaced due to the copyright issue of the previous one.  
+<br>
+<br>
+
 
 
 
