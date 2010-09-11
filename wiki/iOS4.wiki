@@ -17,7 +17,7 @@ As for the package in 3.0.x, the new package for iOS4 is going to replace the Cz
 <br>
 
 *Preferences:*
-The Preferences bundles is modified in order to show Khmer instead of Czech.<br>
+The Preferences bundles is modified in order to show Khmer instead of Czech in your Setting apps.<br>
 You will be able to see "Khmer" in Settings if your iPhone language is English or French<br>
 <br>
 
