@@ -14,13 +14,14 @@ http://sites.google.com/site/khmeriphone/pref.jpg<br>
 
 
 As for the package in 3.0.x, the new package for iOS4 is going to replace the Czech by Khmer.
+<br>
 
-Preferences:
+*Preferences:*
 The Preferences bundles is modified in order to show Khmer instead of Czech.
 The modification take place if your iPhone language is English or French
 <br>
 
-Fonts:
+*Fonts:*
 All the fonts are placed in a separate folder name MyFonts.
    ABC and Limon fonts are installed for legacy web viewing
    PhoneKeysCaps.ttf is used for the font keyboards.
