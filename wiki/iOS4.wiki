@@ -12,5 +12,22 @@ http://sites.google.com/site/khmeriphone/root.jpg<br>
 http://sites.google.com/site/khmeriphone/pref.jpg<br>
 
 
+
+As for the package in 3.0.x, the new package for iOS4 is going to replace the Czech by Khmer.
+
+Preferences:
+The Preferences bundles is modified in order to show Khmer instead of Czech.
+The modification take place if your iPhone language is English or French
+<br>
+
+Fonts:
+All the fonts are placed in a separate folder name MyFonts.
+   ABC and Limon fonts are installed for legacy web viewing
+   PhoneKeysCaps.ttf is used for the font keyboards.
+   arialuni.ttf is the font with khmer glyphs used previously in 3.0 and the new engine from Danh Hong.
+   CGFontCache.plist is modified to declare the new fonts
+
+
+
 <br>
 Update for this page and the new cydia repo address will come this week-end...
