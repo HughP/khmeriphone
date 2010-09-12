@@ -61,3 +61,4 @@ I hope everything will be ok.<b>
 If any problems, please contact me.<br>
 <br> 
 As per today the packages can only be installed on 4.0 and 4.0.1<br>
+==During installation of all my packages, there is a iOS version check. If the package selected is not suitable for your iOS then the package will not be installed. This is to ensure that you are not trying to install a package which is not suitable for your iOS==
