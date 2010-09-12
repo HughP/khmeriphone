@@ -1,7 +1,7 @@
 #labels Featured
 = The khmeriPhone Cydia Repo =
 
-= UPDATE 01/09/10       THIS REPO IS CURRENTLY DEAD, A NEW REPO WILL BE SETUP SOON =
+= UPDATE 12/09/10       NEW CYDIA REPO LIVE =
 
 <br>
 = How to ... =
@@ -18,9 +18,9 @@ Select "Add"
 <br>
 http://sites.google.com/site/khmeriphone/IMG_0073.jpg<br>
 <br>
-Enter the source as per image below: http:/kmiphone.mobi/
+Enter the source as per image below: http://cydia.myrepospace.com/Kmiphone/
 <br>
-http://sites.google.com/site/khmeriphone/IMG_0074.jpg<br>
+http://sites.google.com/site/khmeriphone/newrepo1.jpg<br>
 <br>
 Click "Add Source"
 <br>
@@ -38,29 +38,26 @@ Cydia is Reloading the Package. Once completed, click "Return to Cydia"
 <br>
 The new Repo is there. Click "Done"
 <br>
-http://sites.google.com/site/khmeriphone/IMG_0078.jpg<br>
+http://sites.google.com/site/khmeriphone/newrepo2.jpg<br>
 <br>
 U can Click on the new Repo, You will see the available packages.<br>
 <br>
-http://sites.google.com/site/khmeriphone/IMG_0079.jpg<br>
+http://sites.google.com/site/khmeriphone/newrepo3.jpg<br>
 <br>
-Or you can go directly to Sections. The Packages are in Keyboards and Localization<br>
+Or you can go directly to Sections. The Packages are in Kmiphone - MyRepoSpace<br>
 <br>
-http://sites.google.com/site/khmeriphone/IMG_0080.jpg<br>
-<br>
-Example in Keyboard<br>
-http://sites.google.com/site/khmeriphone/IMG_0081.jpg<br>
+http://sites.google.com/site/khmeriphone/newrepo4.jpg<br>
 <br>
 Click on "Khmer Keyboard&Fonts"<br>
 <br>
-http://sites.google.com/site/khmeriphone/IMG_0082.jpg<br>
+http://sites.google.com/site/khmeriphone/newrepo5.jpg<br>
 <br>
-Install, or go see More Information, or ...<br>
+Install ...<br>
 <br>
-As per today, there is 3 packages available.<br>
+As per today, there is 1 package available.<br>
 <br>
-It is the first time that I do this, so I hope everything will be ok.<b>
+I hope everything will be ok.<b>
 <br>
 If any problems, please contact me.<br>
 <br> 
-As per today the packages can only be installed on 3.0 and 3.0.1<br>
+As per today the packages can only be installed on 4.0 and 4.0.1<br>
