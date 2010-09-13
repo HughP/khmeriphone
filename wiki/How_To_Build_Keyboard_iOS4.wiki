@@ -1,5 +1,5 @@
 #labels Featured,iOS4,Keyboard,iKeyex,KennyTM,create,custom
-= How to make a custom Keyboard for iOS 4 =
+= How to make a custom Keyboard layout for iOS 4 =
 
 This wiki will describe what changed on the iOS 4 regarding the keyboard.
 
