@@ -11,6 +11,6 @@ My web site is not affiliated to his. I only wanted thank him and give him credi
 <br>
 <br>
 I will describe the minimum of change to be made in order to have a working keyboard. <br>
-At least this changes made the Khmer keyboard possible. <br> <br> <br>
+At least these minimum changes made the Khmer keyboard possible. <br> <br> <br>
 
 To be continued ...
