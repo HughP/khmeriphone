@@ -7,7 +7,7 @@ First of all, I would like to thanks KennyTM (iKeyex) for his great blog and gre
 His explanation were clear enough, for me to follow the same reasoning, and then update his tool to generate keyboard for the Khmer community for the iOS4. <br>
 <br>
 He suspended his project up to May 2011. I guessed, he was busy enough to not be disturb. <br>
-This web site is not affiliated to his. I only thank him, as without him none of this could have been possible.
+My web site is not affiliated to his. I only wanted thank him and give him credit, as without him none of this could have been possible.
 <br>
 <br>
 I will describe the minimum of change to be made in order to have a working keyboard. <br>
