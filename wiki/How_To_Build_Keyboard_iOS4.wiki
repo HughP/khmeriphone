@@ -7,7 +7,7 @@ http://farm5.static.flickr.com/4080/4929918522_25e0aa9237_m.jpg
 <br>
 <br>
 First of all, I would like to thanks KennyTM, creator of iKeyex, for his great blog and great description of the keyboard engine on iOS 3.x. <br>
-His explanation were clear enough, for me to follow the same reasoning, and then update his tool to generate keyboard for the Khmer community for the iOS4. <br>
+His explanations were clear enough, for me to follow the same reasoning, and then partially update his tool to generate keyboard for the Khmer community for the iOS4. <br>
 <br>
 He suspended his project up to May 2011. I guessed, he was busy enough to not be disturbed. <br>
 My web site is not affiliated to his site. I only wanted to thank him and give him credit, as without him none of this could have been possible.
