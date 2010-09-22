@@ -20,14 +20,48 @@ Unicode Support: ICU closely tracks the Unicode standard, providing easy access 
 For more information, *ICU official Web Site :* http://site.icu-project.org/
 <br><br><br>
 
-This Library is used in the iDevices, Macs, and other devices... <br>
+This library is widely used in the iDevices, Macs, and many other devices... <br>
 
 As of today the Khmer part is not yet properly fully defined. Few items are still missing.
 For example, if you switch the regional setting to khmer on your iPhone, then the "days" are not displayed properly. Number are displayed instead. This is due to missing definition in the ICU package, for the Khmer part.
 <br><br>
 The following WIKI will explain how to modify the icuxxy.dat found in the iDevices.
-<br><br>
+<br><br><br>
 First download the ICU4C at http://site.icu-project.org/download.<br>
 This tool is needed to create, manipulate the icuxxy.dat library.
 <br><br>
+Install the ICU4C on your computer. Follow the guide on the icu-project web site. <br>
+I will consider that this installation is properly working. 
+<br><br>
 
+==Summary steps example for iOS4:==
+
+Step 1 : Copy the icudt44l.dat from your iPhone to your computer.
+The icudt44l.dat is located on your iPhone in /usr/share/icu
+<br>
+<br>
+
+Step 2: Unpack the icudt44l.dat
+<br>
+<br>
+
+Step 3: Generate new xx.res file
+<br>
+<br>
+
+Step 4: Replace the old res.file by the new xx.res file 
+<br>
+<br>
+
+Step 5: Repack the new icudt44l.dat
+<br>
+<br>
+
+Step 6: Replace the old icudt44l.dat by the new icudt44l.dat
+<br>
+<br>
+
+
+==Commands Line Steps :==
+<br>
+Coming soon ...
