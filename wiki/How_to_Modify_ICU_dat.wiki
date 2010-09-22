@@ -1,0 +1,33 @@
+= International Components for Unicode =
+
+== How to modify ICU library ==
+<br>
+
+
+Here are a few highlights of the services provided by ICU:
+
+Code Page Conversion: Convert text data to or from Unicode and nearly any other character set or encoding. ICU's conversion tables are based on charset data collected by IBM over the course of many decades, and is the most complete available anywhere.
+<br><br>
+Collation: Compare strings according to the conventions and standards of a particular language, region or country. ICU's collation is based on the Unicode Collation Algorithm plus locale-specific comparison rules from the Common Locale Data Repository, a comprehensive source for this type of data.
+<br><br>
+Formatting: Format numbers, dates, times and currency amounts according the conventions of a chosen locale. This includes translating month and day names into the selected language, choosing appropriate abbreviations, ordering fields correctly, etc. This data also comes from the Common Locale Data Repository.
+<br><br>
+Time Calculations: Multiple types of calendars are provided beyond the traditional Gregorian calendar. A thorough set of timezone calculation APIs are provided.
+<br><br>
+Unicode Support: ICU closely tracks the Unicode standard, providing easy access to all of the many Unicode character properties, Unicode Normalization, Case Folding and other fundamental operations as specified by the Unicode Standard.
+<br><br>
+
+For more information, *ICU official Web Site :* http://site.icu-project.org/
+<br><br><br>
+
+This Library is used in the iDevices, Macs, and other devices... <br>
+
+As of today the Khmer part is not yet properly fully defined. Few items are still missing.
+For example, if you switch the regional setting to khmer on your iPhone, then the "days" are not displayed properly. Number are displayed instead. This is due to missing definition in the ICU package, for the Khmer part.
+<br><br>
+The following WIKI will explain how to modify the icuxxy.dat found in the iDevices.
+<br><br>
+First download the ICU4C at http://site.icu-project.org/download.<br>
+This tool is needed to create, manipulate the icuxxy.dat library.
+<br><br>
+
