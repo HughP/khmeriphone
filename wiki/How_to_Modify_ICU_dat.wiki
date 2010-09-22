@@ -57,7 +57,7 @@ Step 5: Repack the new icudt44l.dat
 <br>
 <br>
 
-Step 6: Replace the old icudt44l.dat by the new icudt44l.dat
+Step 6: Rename/Replace the old icudt44l.dat by the new icudt44l.dat
 <br>
 <br>
 
