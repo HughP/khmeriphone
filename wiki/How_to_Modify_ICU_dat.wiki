@@ -149,7 +149,7 @@ If you properly created the icudt44l.dat you shouldn't have any problem.<br>
 Otherwise, you will be stuck in loop in the next step.<br><br>
 ==Step 7: Respring ==
 Now Respring or Restart your iPhone. <br><br>
-If everything ok, then after few second your phone will be on.<br>
+If everything ok, then after few seconds your phone will be on.<br>
 If you are stuck in mode loop, then SSH with your iPhone during this time, and replace the new  icudt44l.dat by the old saved  icudt44l.dat<br><br><br>
 
 
