@@ -64,40 +64,67 @@ Step 6: Rename/Replace the old icudt44l.dat by the new icudt44l.dat
 
 ==Commands Line Steps :==
 <br>
-Step1: *Copy the /usr/share/icu/icudt44l.dat from your iPhone to your Desktop.*
+==Step1: Copy the /usr/share/icu/icudt44l.dat from your iPhone to your Desktop.==
 Use WinSCP or CyberDuck or other to do this operation.
 <br>
 <br>
 
-Step 2: *Unpack the icudt44l.dat*
+==Step 2: Unpack the icudt44l.dat==
 
-cd Desktop
-./icupkg -tl -l icudt44l.dat > out.lst
-<br>
+cd Desktop <br><br>
+*./icupkg -tl -l icudt44l.dat > out.lst*
+<br><br>
 The above command will create the out.lst file. This .lst file will list all the files inside the xxx.dat
 <br>
 
 Create a new directory named icudt44l  (example : mkdir icudt44l)
 <br>
-Extract the package content <br>
-./icupkg -tl -x out.lst icudt44l.dat -d icudt44l/
-<br>
+Extract the package content :<br><br>
+*./icupkg -tl -x out.lst icudt44l.dat -d icudt44l/*
+<br><br>
 The above command will extract all the files within the icudt44l.dat to the directory icudt44l. <br>
 <br>
 You can see that you have in this directory, some sub-directories and some aaaa.res file.<br>
+The xxx.res file are the one that we will modify.<br>
+For the khmer international unicode, we will modify the km.res file(s).<br>
+if you want to know what is in this file, then simply browse to :
+<br><br>* http://source.icu-project.org/repos/icu/icu/tags/release-4-4/source/data/ * <br><br>
+At the above address, you will find the text file version of the res file.<br>
+*Please note that the address above is given for the 4.4 package. Each release has a different branch.*<br>
+*The file content differ from a version to another. Make sure to select the right version*<br>
+
+Select the *"Locales"* directory in the above web site.<br>
+Download the file en.txt and the file km.txt <br>
+<br>
+You can open the both file, and see the differences. You will see that km.txt has missing field compare to the en.txt.
+
 
 <br>
 <br>
 
-Step 3: Generate new xx.res file
+==Step 3: Generate new xx.res file == 
+Modify the km.txt as you wish by respecting the format. <br>
+Once the modification are done. We need to compile this text file to a res file. <br>
+<br>
+
+Goes to the directory where is located the km.txt file and then apply the following command. <br><br>
+* genrb km.txt * <br><br>
+This command will compile the km.txt to km.res
+
+
 <br>
 <br>
 
-Step 4: Replace the old res.file by the new xx.res file 
+==Step 4: Replace the old res.file by the new xx.res file ==
+Replace the /Desktop/icudt44l/km.res by the new one created. <br><br>
+The yyy.res file directly under the/Desktop/icudt44l/ directory are the ones located in "Locales" on the ICU repo web site.<br>
+The other yyy.res, follow the same directory naming as in the web site.
+
 <br>
 <br>
 
-Step 5: Repack the new icudt44l.dat
+==Step 5: Repack the new icudt44l.dat==
+Now that we have replaced the km.res file, it is time to create a new icudt44l.dat
 <br>
 <br>
 
