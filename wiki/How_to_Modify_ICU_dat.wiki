@@ -65,7 +65,7 @@ Step 6: Rename/Replace the old icudt44l.dat by the new icudt44l.dat
 ==Commands Line Steps :==
 <br>
 ==Step1: Copy the /usr/share/icu/icudt44l.dat from your iPhone to your Desktop.==
-Use WinSCP or CyberDuck or other to do this operation.
+Use WinSCP or CyberDuck or others to do this operation.
 <br>
 <br>
 
