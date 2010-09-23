@@ -64,4 +64,43 @@ Step 6: Rename/Replace the old icudt44l.dat by the new icudt44l.dat
 
 ==Commands Line Steps :==
 <br>
-Coming soon ...
+Step1: *Copy the /usr/share/icu/icudt44l.dat from your iPhone to your Desktop.*
+Use WinSCP or CyberDuck or other to do this operation.
+<br>
+<br>
+
+Step 2: *Unpack the icudt44l.dat*
+
+cd Desktop
+./icupkg -tl -l icudt44l.dat > out.lst
+<br>
+The above command will create the out.lst file. This .lst file will list all the files inside the xxx.dat
+<br>
+
+Create a new directory named icudt44l  (example : mkdir icudt44l)
+<br>
+Extract the package content <br>
+./icupkg -tl -x out.lst icudt44l.dat -d icudt44l/
+<br>
+The above command will extract all the files within the icudt44l.dat to the directory icudt44l. <br>
+<br>
+You can see that you have in this directory, some sub-directories and some aaaa.res file.<br>
+
+<br>
+<br>
+
+Step 3: Generate new xx.res file
+<br>
+<br>
+
+Step 4: Replace the old res.file by the new xx.res file 
+<br>
+<br>
+
+Step 5: Repack the new icudt44l.dat
+<br>
+<br>
+
+Step 6: Rename/Replace the old icudt44l.dat by the new icudt44l.dat
+<br>
+<br>
