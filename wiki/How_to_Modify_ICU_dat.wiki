@@ -117,17 +117,43 @@ This command will compile the km.txt to km.res
 
 ==Step 4: Replace the old res.file by the new xx.res file ==
 Replace the /Desktop/icudt44l/km.res by the new one created. <br><br>
-The yyy.res file directly under the/Desktop/icudt44l/ directory are the ones located in "Locales" on the ICU repo web site.<br>
+The yyy.res file directly under the /Desktop/icudt44l/ directory are the ones located in "Locales" on the ICU repo web site.<br>
 The other yyy.res, follow the same directory naming as in the web site.
 
 <br>
 <br>
 
 ==Step 5: Repack the new icudt44l.dat==
-Now that we have replaced the km.res file, it is time to create a new icudt44l.dat
+Now that we have replaced the km.res file, it is time to create a new icudt44l.dat<br>
+<br>
+Change directory<br>
+*cd /Desktop/icudt44l/* <br>
+<br>
+Command to Repack<br><br>
+*./gencmn -v -n icudt44l 0 < ../out.txt*
+<br><br>
+Now, if everything went well, you should have in /Desktop/icudt44l/ a new icudt44l.dat. <br><br>
+This is your new icu file.
 <br>
 <br>
 
-Step 6: Rename/Replace the old icudt44l.dat by the new icudt44l.dat
+==Step 6: Rename/Replace the old icudt44l.dat by the new icudt44l.dat==
+Now SSH to your iphone to /usr/share/icu/ <br>
+Rename icudt44l.dat to icudt44l.dat.bak <br>
+Copy the new created icudt44l.dat to /usr/share/icu/icudt44l.dat <br>
+Now you cross your fingers ... ;) <br><br>
+
+*CRITICAL*<br>
+If you properly created the icudt44l.dat you shouldn't have any problem.<br>
+Otherwise, you will be stuck in loop in the next step.<br><br>
+Now Respring or Restart your iPhone. <br><br>
+If everything ok, then after few second your phone will be on.<br>
+If you are stuck in mode loop, then SSH with your iPhone during this time, and replace the new  icudt44l.dat by the old saved  icudt44l.dat<br><br><br>
+
+
+As you can understand, this operation is risky, but can be done. it is recommended to expert user only.
+
+
+
 <br>
 <br>
