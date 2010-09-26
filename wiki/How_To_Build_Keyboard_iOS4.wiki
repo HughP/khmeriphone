@@ -42,7 +42,7 @@ the Layout plist is the same format as before as well.
 As before you will need to run the tool "layout-plist-to-keyboards-iOS4" from your iPhone directly. <br><br>
 The tool will generate 8 keyboards iPhone-xxxxx-Czech-Slovak-yyyy.keyboard. <br><br>
 Put these 8 keyboards in /System/Library/Frameworks/UIKit.framework/ and then restart or respring your iPhone. <br><br>
-These keyboards replace the UIKIT internal Czech-Slovak keyboards.
-
+These keyboards replace the UIKIT internal Czech-Slovak keyboards.<br><br>
+Take care if you spread your keyboards by this method. Because if many people replace existing keyboards, it can become really messy. ;) the iKeyEx tool developed by KennyTM solve the messy problem. But I'm not going to update his tool. Sorry. <br><br>
 
 
