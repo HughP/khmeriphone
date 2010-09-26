@@ -50,5 +50,5 @@ These keyboards replace the UIKIT internal Czech-Slovak keyboards.<br><br><br>
 Take care if you spread your keyboards by this method thru Cydia. Because if many people are replacing existing keyboards, it can become quickly really messy. ;) the iKeyEx tool developed by KennyTM solve the messy problem. But I'm not going to update his tool due to time constraints. <br><br>
 <br>
 <br>
-You cannot generate iPad Keyboard with this tool. The metrics in this tool are not ok for the iPad.<br>
-The iPad as different metrics and different key placement rules.<br>
+*You cannot generate iPad Keyboard with this tool. The metrics in this tool are not ok for the iPad.*<br>
+*The iPad has different metrics and different key placement rules.*<br>
