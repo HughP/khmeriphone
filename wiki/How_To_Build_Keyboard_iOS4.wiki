@@ -16,4 +16,11 @@ My web site is not affiliated to his site. I only wanted to thank him and give h
 I will describe the minimum of change to be made in order to have a working keyboard. <br>
 At least these minimum changes made the Khmer keyboard possible. <br> <br> <br>
 
-To be continued ...
+The new UIKIT in 4.x has 204 iPhone keyboards defined and 60 Wildcat (iPad) keyboards defined.
+<br><br>
+The structure of the keyboards under iOS3 was already ready for multi-resolution screen.<br>
+So I took the big assumption that the main mechanism shouldn't have changed a lot. <br><br>
+I mean, *Why to fix something which is not broken ?* <br>
+<br>
+So, I started to check that all the keyboard functions available in 3.x were still available under 4.x<br><br>
+I then started to check all the private headers used in 3.x and compared them with the new headers in 4.x <br><br>
