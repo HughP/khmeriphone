@@ -36,7 +36,7 @@ if you have a minimum of knowledge in development you can then update the tool f
 *You can find all the information need to update and compile your self the tool on KennyTM website. http://code.google.com/p/networkpx/ * <br><br>
 ----
 ----
-Available on this web site is the updated tool "layout-plist-to-keyboards-ios4" and the modified source code if some of you are interested.<br><br>
+Available on this web site is the updated tool "layout-plist-to-keyboards-ios4".<br><br>
 The use of "layout-plist-to-keyboards-ios4" is exactly the same as defined on KennyTM website <br><br>
 the Layout plist is the same format as before as well. 
 *http://code.google.com/p/networkpx/wiki/keyboard_file_spec *
