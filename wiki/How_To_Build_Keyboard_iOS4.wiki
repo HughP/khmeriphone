@@ -23,7 +23,7 @@ So I took the big assumption that the main mechanism shouldn't have changed a lo
 I mean, *Why to fix something which is not broken ?* <br>
 <br>
 So, I started to check that all the keyboard functions available in 3.x were still available under 4.x<br><br>
-I then started to check all the private headers used in 3.x and compared them with the new headers in 4.x <br><br>
+I then checked all the private headers used in 3.x and compared them with the new headers in 4.x <br><br>
 I then started to notice slight differences between the headers. <br><br>
 The main differences causing the crash are located in the UIKBIdentifierList and UIKBAttributeList. <br><br>
 Variables went from NSMutableArray to NSMutableDictionary. Of course this is a big difference in the variable structure.<br><br>
