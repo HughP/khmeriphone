@@ -36,14 +36,14 @@ if you have a minimum of knowledge in development you can then update the tool f
 *You can find all the information need to update and compile your self the tool on KennyTM website. http://code.google.com/p/networkpx/ * <br><br>
 ----
 ----
-Available on this web site is the updated tool "layout-plist-to-keyboards-iOS4" and the modified source code if some of you are interested.<br><br>
-The use of "layout-plist-to-keyboards-iOS4" is exactly the same as defined on KennyTM website <br><br>
+Available on this web site is the updated tool "layout-plist-to-keyboards-ios4" and the modified source code if some of you are interested.<br><br>
+The use of "layout-plist-to-keyboards-ios4" is exactly the same as defined on KennyTM website <br><br>
 the Layout plist is the same format as before as well. 
 *http://code.google.com/p/networkpx/wiki/keyboard_file_spec *
 <br><br><br>
-As before you will need to run the tool "layout-plist-to-keyboards-iOS4" from your iPhone directly. <br><br>
+As before you will need to run the tool "layout-plist-to-keyboards-ios4" from your iPhone directly. <br><br>
 Copy the tool and your layout.plist into your iPhone. Then SSH into your iPhone. <br><br>
-./layout-plist-to-keyboards-iOS4 layout.plist <br><br>
+./layout-plist-to-keyboards-ios4 layout.plist <br><br>
 The tool will generate 8 keyboards iPhone-xxxxx-Czech-Slovak-yyyy.keyboard. <br><br>
 Put these 8 keyboards in /System/Library/Frameworks/UIKit.framework/ and then restart or respring your iPhone. <br><br>
 These keyboards replace the UIKIT internal Czech-Slovak keyboards.<br><br><br>
