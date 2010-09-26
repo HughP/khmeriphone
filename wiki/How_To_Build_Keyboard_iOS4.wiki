@@ -47,7 +47,7 @@ Copy the tool and your layout.plist into your iPhone. Then SSH into your iPhone.
 The tool will generate 8 keyboards iPhone-xxxxx-Czech-Slovak-yyyy.keyboard. <br><br>
 Put these 8 keyboards in /System/Library/Frameworks/UIKit.framework/ and then restart or respring your iPhone. <br><br>
 These keyboards replace the UIKIT internal Czech-Slovak keyboards.<br><br><br>
-Take care if you spread your keyboards by this method thru Cydia. Because if many people are replacing existing keyboards, it can become quickly really messy. ;) the iKeyEx tool developed by KennyTM solve the messy problem. But I'm not going to update his tool due to time constraints. <br><br>
+Take care if you distribute your keyboards by this method thru Cydia. Because if many people are replacing existing keyboards, it can become quickly really messy. ;) the iKeyEx tool developed by KennyTM solve the messy problem. But I'm not going to update his tool. <br><br>
 <br>
 <br>
 *You cannot generate iPad Keyboard with this tool. The metrics in this tool are not ok for the iPad.*<br>
