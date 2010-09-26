@@ -15,7 +15,7 @@ My web site is not affiliated to his site. I only wanted to thank him and give h
 <br>
 I will describe the minimum of change to be made in order to have a working keyboard. <br>
 At least these minimum changes made the Khmer keyboard possible. <br> <br> <br>
-
+----
 The new UIKIT in 4.x has 204 iPhone keyboards defined and 60 Wildcat (iPad) keyboards defined.
 <br><br>
 The structure of the keyboards under iOS3 was already ready for multi-resolution screen.<br>
@@ -32,8 +32,10 @@ Then Bingo ... No crash anymore. I was able to generated a keyboard for iOS4. <b
 As you can see, very lucky I was. But this little explanation above, took me 3 full days to find. As I'm not a developer expert.<br><br>
 There is as well more displayType and more interactionType defined in the 4.x. But I didn't took them into account for my updated version of the tool. <br><br>
 if you have a minimum of knowledge in development you can then update the tool further. To take them into account.<br><br>
+
 *You can find all the information need to update and compile your self the tool on KennyTM website. http://code.google.com/p/networkpx/ * <br><br>
-<br>
+----
+----
 Available on this web site is the updated tool "layout-plist-to-keyboards-iOS4" and the modified source code if some of you are interested.<br><br>
 The use of "layout-plist-to-keyboards-iOS4" is exactly the same as defined on KennyTM website <br><br>
 the Layout plist is the same format as before as well. 
@@ -46,3 +48,7 @@ The tool will generate 8 keyboards iPhone-xxxxx-Czech-Slovak-yyyy.keyboard. <br>
 Put these 8 keyboards in /System/Library/Frameworks/UIKit.framework/ and then restart or respring your iPhone. <br><br>
 These keyboards replace the UIKIT internal Czech-Slovak keyboards.<br><br><br>
 Take care if you spread your keyboards by this method thru Cydia. Because if many people are replacing existing keyboards, it can become quickly really messy. ;) the iKeyEx tool developed by KennyTM solve the messy problem. But I'm not going to update his tool due to time constraints. <br><br>
+<br>
+<br>
+You cannot generate iPad Keyboard with this tool. The metrics in this tool are not ok for the iPad.<br>
+The iPad as different metrics and different key placement rules.<br>
