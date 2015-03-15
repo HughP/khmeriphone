@@ -1,0 +1,54 @@
+# How to make a custom Keyboard layout for iOS 4 #
+
+This wiki will describe what changed on the iOS 4 regarding the keyboard.
+
+![http://farm5.static.flickr.com/4080/4929918522_25e0aa9237_m.jpg](http://farm5.static.flickr.com/4080/4929918522_25e0aa9237_m.jpg)
+<br>
+<br>
+First of all, I would like to thanks KennyTM, creator of iKeyex, for his great blog and great description of the keyboard engine on iOS 3.x. <br>
+His explanations were clear enough, for me to follow the same reasoning, and then partially update his tool to generate keyboard for the Khmer community for the iOS4. <br>
+<br>
+He suspended his project up to May 2011. I guessed, he was busy enough to not be disturbed. <br>
+My web site is not affiliated to his site. I only wanted to thank him and give him credit, as without him none of this could have been possible.<br>
+<br>
+<br>
+I will describe the minimum of change to be made in order to have a working keyboard. <br>
+At least these minimum changes made the Khmer keyboard possible. <br> <br> <br>
+<hr />
+The new UIKIT in 4.x has 204 iPhone keyboards defined and 60 Wildcat (iPad) keyboards defined.<br>
+<br><br>
+The structure of the keyboards under iOS3 was already ready for multi-resolution screen.<br>
+So I took the big assumption that the main mechanism shouldn't have changed a lot. <br><br>
+I mean, <b>Why to fix something which is not broken ?</b> <br>
+<br>
+So, I started to check that all the keyboard functions available in 3.x were still available under 4.x<br><br>
+I then checked all the private headers used in 3.x and compared them with the new headers in 4.x <br><br>
+I then started to notice slight differences between the headers. <br><br>
+The main differences causing the crash are located in the UIKBIdentifierList and UIKBAttributeList. <br><br>
+Variables went from NSMutableArray to NSMutableDictionary. Of course this is a big difference in the variable structure.<br><br>
+I then decided to try to modify the "layout-plist-to-keyboards" source code, taking into account this finding. <br><br>
+Then Bingo ... No crash anymore. I was able to generated a keyboard for iOS4. <br><br>
+As you can see, very lucky I was. But this little explanation above, took me 3 full days to find. As I'm not a developer expert.<br><br>
+There is as well more displayType and more interactionType defined in the 4.x. But I didn't took them into account for my updated version of the tool. <br><br>
+if you have a minimum of knowledge in development you can then update the tool further. To take them into account.<br><br>
+
+<b>You can find all the information need to update and compile your self the tool on KennyTM website. <a href='http://code.google.com/p/networkpx/'>http://code.google.com/p/networkpx/</a></b> <br><br>
+<hr />
+<hr />
+Available on this web site is the updated tool "layout-plist-to-keyboards-ios4".<br>
+<br> A zip version has been uploaded. Unzip the file to have the tool <br><br>
+The use of "layout-plist-to-keyboards-ios4" is exactly the same as defined on KennyTM website <br><br>
+the Layout plist is the same format as before as well.<br>
+<b><a href='http://code.google.com/p/networkpx/wiki/keyboard_file_spec'>http://code.google.com/p/networkpx/wiki/keyboard_file_spec</a></b>
+<br><br><br>
+As before you will need to run the tool "layout-plist-to-keyboards-ios4" from your iPhone directly. <br><br>
+Copy the tool and your layout.plist into your iPhone. Then SSH into your iPhone. <br><br>
+./layout-plist-to-keyboards-ios4 layout.plist <br><br>
+The tool will generate 8 keyboards iPhone-xxxxx-Czech-Slovak-yyyy.keyboard. <br><br>
+Put these 8 keyboards in /System/Library/Frameworks/UIKit.framework/ and then restart or respring your iPhone. <br><br>
+These keyboards replace the UIKIT internal Czech-Slovak keyboards.<br><br><br>
+Take care if you distribute your keyboards by this method thru Cydia. Because if many people are replacing existing keyboards, it can become quickly really messy. ;) the iKeyEx tool developed by KennyTM solve the messy problem. But I'm not going to update his tool. <br><br>
+<br>
+<br>
+<b>You cannot generate iPad Keyboard with this tool. The metrics in this tool are not ok for the iPad.</b><br>
+<b>The iPad has different metrics and different key placement rules.</b><br>

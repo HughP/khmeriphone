@@ -1,0 +1,36 @@
+Khmer Keyboard 4 Rows
+
+
+![http://farm3.static.flickr.com/2579/3844476441_41bb9c667c_m.jpg](http://farm3.static.flickr.com/2579/3844476441_41bb9c667c_m.jpg)
+![http://farm3.static.flickr.com/2604/3844476589_900fe6ecfe_m.jpg](http://farm3.static.flickr.com/2604/3844476589_900fe6ecfe_m.jpg)
+![http://farm4.static.flickr.com/3501/3844476697_fff0e60b26_m.jpg](http://farm4.static.flickr.com/3501/3844476697_fff0e60b26_m.jpg)
+![http://farm4.static.flickr.com/3476/3845267534_f5c3cf3fa7_m.jpg](http://farm4.static.flickr.com/3476/3845267534_f5c3cf3fa7_m.jpg)
+![http://farm3.static.flickr.com/2468/3844476925_4203c8af5f_m.jpg](http://farm3.static.flickr.com/2468/3844476925_4203c8af5f_m.jpg)
+![http://farm3.static.flickr.com/2460/3844477067_f99bde2468_m.jpg](http://farm3.static.flickr.com/2460/3844477067_f99bde2468_m.jpg)
+
+This is the new Keyboard 4 Rows delivered with the new v0.4 <br>
+This version is available here for download and is available Monday 24 August on Cydia.<br>
+<br>
+I prefer more this new version than my previous one. <br>
+The Target of this new keyboard was to have a look and feel iPhone and to be as close as possible of the NIDA mapping. Everyone knowing the QWERTY AND NIDA mapping, it should be easier to key in<br>
+<br>
+You can find NIDA keyboard mapping on <a href='http://www.khmeros.info/drupal612/keyboard'>http://www.khmeros.info/drupal612/keyboard</a> <br>
+<br>
+<br>
+
+On this iPhone Keyboard the Invisible Space, is available with Shift + Space. Due to Technical constraint, I didn't find a better way than to put it on the Shift + Space.<br>
+<br>
+<br>
+Some people will like it, others will not. This is perfectly normal. <br>
+
+<br>
+Same as in the english world, some people likes the QWERTY 4 rows, some the 5 rows, some the Colmak keyboard, some with other colors, shape ... <br>
+<br>
+The most important is that you feel good using the one you like<br>
+<br>
+<br>
+I hope to see the other type of keyboards available soon for all who wants to write Khmer on their iPhone. <br>
+
+If you are interested to know how to make an iPhone Keyboard, please visit the site <a href='http://networkpx.blogspot.com/'>http://networkpx.blogspot.com/</a> <br>
+This site is by KennyTM, the person who build iKeyEx and other great utilities for iPhone. <br>
+I didn't know anything about iPhone keyboard, before to read his Blog.

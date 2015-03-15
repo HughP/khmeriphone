@@ -1,0 +1,63 @@
+# The khmeriPhone Cydia Repo #
+
+# UPDATE 12/09/10       NEW CYDIA REPO LIVE #
+
+<br>
+<h1>How to ...</h1>
+<br>
+Open Cydia and Select Manage...<br>
+<br>
+<img src='http://sites.google.com/site/khmeriphone/IMG_0071.jpg' /><br>
+<br>
+Select "Sources"<br>
+<br>
+<img src='http://sites.google.com/site/khmeriphone/IMG_0072.jpg' /><br>
+<br>
+Select "Add"<br>
+<br>
+<img src='http://sites.google.com/site/khmeriphone/IMG_0073.jpg' /><br>
+<br>
+Enter the source as per image below: <a href='http://cydia.myrepospace.com/Kmiphone/'>http://cydia.myrepospace.com/Kmiphone/</a>
+<br>
+<img src='http://sites.google.com/site/khmeriphone/newrepo1.jpg' /><br>
+<br>
+Click "Add Source"<br>
+<br>
+<img src='http://sites.google.com/site/khmeriphone/IMG_0075.jpg' /><br>
+<br>
+Cydia is Verifying the URL<br>
+<br>
+<img src='http://sites.google.com/site/khmeriphone/IMG_0076.jpg' /><br>
+<br>
+Cydia is updating the sources<br>
+<br>
+<img src='http://sites.google.com/site/khmeriphone/IMG_0077.jpg' /><br>
+<br>
+Cydia is Reloading the Package. Once completed, click "Return to Cydia"<br>
+<br>
+The new Repo is there. Click "Done"<br>
+<br>
+<img src='http://sites.google.com/site/khmeriphone/newrepo2.jpg' /><br>
+<br>
+U can Click on the new Repo, You will see the available packages.<br>
+<br>
+<img src='http://sites.google.com/site/khmeriphone/newrepo3.jpg' /><br>
+<br>
+Or you can go directly to Sections. The Packages are in Kmiphone - MyRepoSpace<br>
+<br>
+<img src='http://sites.google.com/site/khmeriphone/newrepo4.jpg' /><br>
+<br>
+Click on "Khmer Keyboard&Fonts"<br>
+<br>
+<img src='http://sites.google.com/site/khmeriphone/newrepo5.jpg' /><br>
+<br>
+Install ...<br>
+<br>
+As per today, there is 1 package available.<br>
+<br>
+I hope everything will be ok.<b>
+<br>
+If any problems, please contact me.<br>
+<br>
+As per today the packages can only be installed on 4.0 and 4.0.1<br>
+<h2>During installation of all my packages, there is a iOS version check. If the package selected is not suitable for your iOS then the package will not be installed. This is to ensure that you are not trying to install a package which is not suitable for your iOS</h2>

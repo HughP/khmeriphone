@@ -1,0 +1,36 @@
+# Khmer Sorting / Collation for iPhone 3.0.x #
+
+
+## Sort&Collation how to ... ##
+
+Yesterday, with the 0.4 version, the Khmer words are not properly sorted and cannot be easily search with the Index Bar (On the right).<br>
+<br>
+Example<br>
+
+<img src='http://farm4.static.flickr.com/3516/3876862431_a750db7d1b_m.jpg' /><br>
+<br>
+After installing the new v0.5 the result is as picture below.<br>
+
+<img src='http://farm4.static.flickr.com/3431/3877654908_7b9691b8a7_m.jpg' /><br>
+<br>
+<br>
+<br>
+During the development of this new feature, there was discussions about the way of sorting the letters.<br>
+After checking on different OS (Windows, Mac, Linux), and different programs, it has been noticed, that none of the program is sorting the Khmer letters the same way.<br>
+<br>
+For the iPhone I had 2 options.<br>
+<br>
+The Chuon Nath way or the Consonant+Independent Vowel way.<br>
+<br>
+It seems that today the Consonant+Independent Vowel is more widely used.<br>
+So, this version is sorting the Consonant + Independent Vowel way.<br>
+<br>
+An example of Consonant + Independent Vowel order can be found at <a href='http://dict.ant.com.kh/dict/dictionaries/'>http://dict.ant.com.kh/dict/dictionaries/</a>
+<br><br>
+With this version you can search easily your Contacts and Ipod items (Songs, Artists, ...).<br>
+<br>
+<br>
+<b>NB: After downloading the new Cydia Update, you will need to switch back to English Language, and again to Khmer Language.</b><br>
+I noticed that, the first time, it takes few seconds for the sorting algorithm to be acknowledge by the iPhone.<br>
+
+As usual, Please do not hesitate to comment.

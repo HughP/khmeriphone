@@ -1,0 +1,43 @@
+# iOS 4 Khmer Keyboard & Fonts Package #
+
+<br>
+<h2>This wiki is describing the package content, that will be provided on Cydia</h2>
+
+
+<br>
+<img src='http://sites.google.com/site/khmeriphone/root.jpg' /><br>
+
+<br>
+<img src='http://sites.google.com/site/khmeriphone/pref.jpg' /><br>
+
+
+
+As for the package in 3.0.x, the new package for iOS4 is going to replace the Czech by Khmer.<br>
+<br>
+
+<b>Preferences:</b>
+The Preferences bundles is modified in order to show Khmer instead of Czech in your Setting apps.<br>
+You will be able to see "Khmer" in Settings if your iPhone language is English or French<br>
+<br>
+
+<b>Fonts:</b>
+All the fonts are located in a separate folder name <b>MyFonts.</b> <br>
+<blockquote>ABC and Limon fonts are installed for legacy web viewing <br>
+PhoneKeysCaps.ttf is used for the font keyboards. <br>
+arialuni.ttf is the Unicode font with khmer glyphs used previously in 3.0 and the new engine from Danh Hong. <br>
+CGFontCache.plist is modified to declare the new fonts <br></blockquote>
+
+<blockquote>NB: arialuni.ttf is the Unicode font. It as the same characteristic as before. I could have used exactly the same font as before for this new package. But due to copyright issue, I had to change the AAT engine of the font and use the one from Danh Hong.<br>
+If you modify the package for personal purpose. Be very careful with PhoneKeysCaps.ttf. This font is used for the keyboard, and keyboard only. And mandatory for the keyboard. I do not recommend you to change PhoneKeyCaps.ttf.<br>
+<br></blockquote>
+
+<b>Keyboard:</b>
+All the files xxxx.keyboard are defining the Khmer Keyboard.<br>
+Keyboard-cs.plist is defining mainly the long push key, and few other things.<br>
+InputModeProperties.plist is used in Preferences for the list of HW keyboard and SW keyboard. New in iOS4<br>
+
+<br>
+<br>
+
+This above describe what will be changed in your iPhone iOS4 for you to have Khmer Fonts and Keyboard on your iPhone <br>
+The new cydia repo address will come this week-end...

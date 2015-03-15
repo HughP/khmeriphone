@@ -1,0 +1,52 @@
+8 August 2009
+
+This is my first package for you to be able to read or write Unicode khmer properly on your iPhone.
+I do not speak or write Khmer, so if you email me, please email in English (or French as it is my native language).
+I do not take any responsibilities if you mess up with your iPhone with those files. It is at your own risk.
+
+
+Version 0.1: First Version
+Version 0.2: Bug Fix: The keyboard selection when the selected language is Khmer was wrong. The keyboard could only be activated from English Language.
+
+
+After replacing the files as explained below, you should have on your iPhone:
+
+-Khmer Unicode with rendering
+-Some old legacy font (ABC and Limon)
+-You can select a Khmer Keyboard
+-You can change your regional setting to Khmer
+-You can change language to Khmer. (this will only be applied for the application title, as I'm not khmer I cannot translate all the applications menu. But feel free to do it and redistribute).
+
+
+How to do:
+
+I consider that your iPhone is already Jailbreak, if not the you can find example for iPhone 3G with Mac here : http://www.iclarified.com/entry/index.php?enid=4303
+
+I consider that you know how to access your iPhone system files through SSH.
+Example for windows with winscp: http://www.iclarified.com/entry/index.php?enid=3221
+Example for Mac with Fugu: http://www.iclarified.com/entry/index.php?enid=2096
+
+
+1 - Copy from the zip all the files to your iPhone
+
+The zip directory architecture follow the one on the iPhone.
+For example the file AdditionalLanguages.plist is located in the zip at
+
+Khmer\_iPhone\_v0.1/Applications/Preferences.app/AdditionalLanguages.plist
+
+copy it to
+
+/Applications/Preferences.app/AdditionalLanguages.plist
+
+
+before copying the files, please rename the existing files  xxxx.bak
+example: rename the original AdditionalLanguages.plist to AdditionalLanguages.plist.bak
+
+Like this in case of problem, just delete the new copied file and revert back the original name of the original file.
+
+
+2- Reboot your iPhone
+
+
+
+If you have problem, leave a comment on http://code.google.com/p/khmeriphone/ or contact fabkk2002@yahoo.com
